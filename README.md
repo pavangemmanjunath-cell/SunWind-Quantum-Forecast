@@ -155,7 +155,7 @@ See [`docs/experimental-status.md`](./docs/experimental-status.md) for the model
 
 ## Citation
 
-If you use this software, cite it using the metadata in [`CITATION.cff`](./CITATION.cff). GitHub can render the citation when the file is present. The associated manuscript is identified in the source project as *A Quantum-Inspired Variational Kernel Framework for Cross-Region Solar and Wind Energy Forecasting*. Publication and DOI details are not documented here, so do not cite an invented DOI.
+If you use this software, cite it using the metadata in [`CITATION.cff`](./CITATION.cff). GitHub can render the citation when the file is present. The associated software record is archived on Zenodo at [10.5281/zenodo.23300129](https://doi.org/10.5281/zenodo.23300129). The Zenodo record currently identifies its archived software as version 1.0; the first GitHub release documented here is v0.1.0, so do not assume the archived files are identical to that release.
 
 ## Contributing and support
 

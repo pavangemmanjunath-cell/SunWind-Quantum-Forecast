@@ -36,4 +36,6 @@ For this release commit, the backend suite passed **17 tests**, Ruff lint passed
 - Pavan Manjunath — [ORCID: 0000-0002-2694-8807](https://orcid.org/0000-0002-2694-8807)
 - Thomas Prüfer
 
-No Zenodo record or DOI is associated with this release.
+## Related software record
+
+The project has a published Zenodo record: [10.5281/zenodo.23300129](https://doi.org/10.5281/zenodo.23300129). That record currently identifies the archived software as version 1.0 and links to the repository's `1.0` tree. This document describes GitHub release v0.1.0; the DOI is provided as a related project citation, not as a claim that the Zenodo archive is identical to this release.

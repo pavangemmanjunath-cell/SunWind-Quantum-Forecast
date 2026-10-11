@@ -5,6 +5,7 @@ type: software
 authors:
   - name: "SunWind-Quantum-Forecast contributors"
 version: "0.1.0"
+doi: "10.5281/zenodo.23300129"
 repository-code: "https://github.com/pavangemmanjunath-cell/SunWind-Quantum-Forecast"
 license: MIT
 abstract: >-
