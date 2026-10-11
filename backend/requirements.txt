@@ -1,0 +1,12 @@
+numpy>=2.0
+scipy>=1.13
+pandas>=2.2
+scikit-learn>=1.5
+xgboost>=2.1
+pennylane>=0.38
+matplotlib>=3.8
+fastapi>=0.110
+uvicorn>=0.29
+pydantic>=2.6
+# CPU-only PyTorch (pip install torch --index-url https://download.pytorch.org/whl/cpu also works)
+torch>=2.3

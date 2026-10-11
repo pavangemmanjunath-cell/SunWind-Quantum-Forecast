@@ -1,0 +1,30 @@
+name: Feature request
+description: Propose a software capability with a clear use case.
+title: "[Feature]: "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem to solve
+    validations:
+      required: true
+  - type: textarea
+    id: capability
+    attributes:
+      label: Proposed capability
+    validations:
+      required: true
+  - type: textarea
+    id: use_case
+    attributes:
+      label: Research or user use case
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+  - type: textarea
+    id: justification
+    attributes:
+      label: Technical or research justification

@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it using this metadata."
+title: "SunWind-Quantum-Forecast: Quantum-inspired kernels for solar and wind forecasting across regions"
+type: software
+authors:
+  - name: "SunWind-Quantum-Forecast contributors"
+version: "0.1.0"
+repository-code: "https://github.com/pavangemmanjunath-cell/SunWind-Quantum-Forecast"
+license: MIT
+abstract: >-
+  Ongoing experimental research software for comparing classical and
+  quantum-inspired kernel forecasting methods across three fixed-parameter
+  synthetic renewable-energy scenarios. The results are not validated on
+  external observations. The circuit is simulated classically; no quantum
+  advantage is claimed.
+keywords:
+  - renewable energy
+  - solar forecasting
+  - wind forecasting
+  - time series
+  - quantum-inspired kernels

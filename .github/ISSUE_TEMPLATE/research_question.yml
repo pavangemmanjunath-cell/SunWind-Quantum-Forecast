@@ -1,0 +1,25 @@
+name: Research question
+description: Discuss a methodological, reproducibility, or evaluation question.
+title: "[Research]: "
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Research question
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Relevant method, dataset, or result
+      description: Identify the affected code or artifact and distinguish simulated from observed data.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence or references
+  - type: textarea
+    id: discussion
+    attributes:
+      label: What would a useful resolution look like?
